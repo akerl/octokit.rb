@@ -24,7 +24,7 @@ group :test do
   gem 'rb-fsevent', '~> 0.9'
   gem 'rspec', '~> 3.0.0'
   gem 'simplecov', :require => false
-  gem 'vcr', '~> 4.0'
+  gem 'vcr', '~> 5.0.0'
   gem 'webmock', '~> 3.6.0', '>= 3.4.2'
 end
 
