@@ -22,7 +22,7 @@ group :test do
   gem 'mime-types', '< 2.0.0'
   gem 'netrc', '~> 0.7.7'
   gem 'rb-fsevent', '~> 0.9'
-  gem 'rspec', '~> 3.0.0'
+  gem 'rspec', '~> 3.9.0'
   gem 'simplecov', :require => false
   gem 'vcr', '~> 5.0.0'
   gem 'webmock', '~> 3.6.0', '>= 3.4.2'
